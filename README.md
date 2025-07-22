@@ -2,18 +2,34 @@
 
 **`Desenvolvedor Front-end`**
 
-💻 Desenvolvedor focado em me tornar um FullStack e apaixonado por tecnologia. Atualmente estudando ReactJS e aprimorando minhas habilidades. Criando projetos práticos para consolidar o aprendizado e compartilhando conhecimento no Instagram e LinkedIn. Explorando novas tecnologias e construindo soluções web interativas.
+💻 Desenvolvedor focado em me tornar um FullStack e apaixonado por tecnologia. Atualmente estudando TypeScript e aprimorando minhas habilidades. Criando projetos práticos para consolidar o aprendizado e compartilhando conhecimento no Instagram e LinkedIn. Explorando novas tecnologias e construindo soluções web interativas.
 
 GitHub é meu espaço para experimentos e projetos. Fique à vontade para explorar!
 
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-a5175b221)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jotavitorz/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://#)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jotavitorz)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://#)
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript" 
+    height="30" 
+    width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
+/>
 <img 
     align="left" 
     alt="HTML"
@@ -30,14 +46,7 @@ GitHub é meu espaço para experimentos e projetos. Fique à vontade para explor
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="React"
