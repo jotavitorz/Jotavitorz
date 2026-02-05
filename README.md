@@ -62,11 +62,3 @@ GitHub é meu espaço para experimentos e projetos. Fique à vontade para explor
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
-<br/> <br/>
-
-### 📊 Estatísticas
-
-![Jota GitHub stats](https://github-readme-stats.vercel.app/api?username=jotavitorz&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jotavitorz&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9)
-
